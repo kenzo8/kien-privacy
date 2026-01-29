@@ -128,7 +128,7 @@ If you have questions about this Privacy Policy or our data practices, or wish t
 
 - **App name:** Kien  
 - **Repository / project:** [kien-privacy](https://github.com/kenzo8/kien-privacy)  
-- **Email:** 2974132386@qq.com
+- **Email:** p32392530+kien@gmail.com
 
 ---
 
